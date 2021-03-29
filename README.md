@@ -3,7 +3,7 @@
 
 This notebook helps create models that can identify the creditworthiness of borrowers. A logistic regression model will be used to compare an original dataset with a resampled dataset. For both datasets we will get the count of the target classes, train a logistic regression classifier, calculate the balanced accuracy score, generate a confusion matrix, and generate a classification report.
 
-![](Imshrd/Classification_report_imbalanced.png)
+![](Images/Classification_report_imbalanced.png)
 
 ---
 
