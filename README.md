@@ -5,6 +5,8 @@ This notebook helps create models that can identify the creditworthiness of borr
 
 ![](Images/Classification_report_imbalanced.png)
 
+_Imbalanced Classification Report_
+
 ---
 
 ## Technologies
